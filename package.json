@@ -7,7 +7,7 @@
   "dependencies": {
     "@firebase/app": "0.1.8",
     "@firebase/firestore": "0.3.2",
-    "vue": "2.5.2",
+    "vue": "3.0.0",
     "vue-firestore": "0.2.3"
   }
 }
